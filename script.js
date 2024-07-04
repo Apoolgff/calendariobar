@@ -4,7 +4,36 @@ document.addEventListener('DOMContentLoaded', function() {
     // Objeto con números y textos correspondientes
     const numeroTexto = {
         1: "BUENOOO BABARRR hoy se arranco el camino, a darlo todo",
-        2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos",
+        2: "NO VALE HACER TRAMPA!",
+        3: "NO VALE HACER TRAMPA!",
+        4: "NO VALE HACER TRAMPA!",
+        5: "NO VALE HACER TRAMPA!",
+        6: "NO VALE HACER TRAMPA!",
+        7: "NO VALE HACER TRAMPA!",
+        8: "NO VALE HACER TRAMPA!",
+        9: "NO VALE HACER TRAMPA!",
+        10: "NO VALE HACER TRAMPA!",
+        11: "NO VALE HACER TRAMPA!",
+        12: "NO VALE HACER TRAMPA!",
+        13: "NO VALE HACER TRAMPA!",
+        14: "NO VALE HACER TRAMPA!",
+        15: "NO VALE HACER TRAMPA!",
+        16: "NO VALE HACER TRAMPA!",
+        17: "NO VALE HACER TRAMPA!",
+        18: "NO VALE HACER TRAMPA!",
+        19: "NO VALE HACER TRAMPA!",
+        20: "NO VALE HACER TRAMPA!",
+        21: "NO VALE HACER TRAMPA!",
+        22: "NO VALE HACER TRAMPA!",
+        23: "NO VALE HACER TRAMPA!",
+        24: "NO VALE HACER TRAMPA!",
+        25: "NO VALE HACER TRAMPA!",
+        26: "NO VALE HACER TRAMPA!",
+        27: "NO VALE HACER TRAMPA!",
+        28: "NO VALE HACER TRAMPA!",
+        29: "NO VALE HACER TRAMPA!",
+        30: "NO VALE HACER TRAMPA!"
+        /*2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos",
         3: "NO HAY 2 SIN 3 babarrrr a seguir metiendole con tuti!!",
         4: "OPPAAA ya el 4to dia paparrrrrr, dale que vaaaa bubiii",
         5: "ojooo 5to dia babubi, esto es una cosita de locos, a seguir",
@@ -32,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
         27: "bueno bubiiii comenzo la cuenta regresiva, 3 dias mas, solo 3 y cumplis el objetivo",
         28: "PAPAAAAAARRRRRR ya estamos en el dia 28 que emocionante, ni se te ocurra aflojar ahora",
         29: "PENULTIMO DIA BABAAARRRRRR y la barra esta que arde, esperando para gritar dale campeona",
-        30: "FELICITACIONES BABAR!! cumpliste tu objetivo, estoy muy orgulloso de vos, TE AMO!"
+        30: "FELICITACIONES BABAR!! cumpliste tu objetivo, estoy muy orgulloso de vos, TE AMO!"*/
     };
 
      // Crear las celdas con número del 1 al 30
