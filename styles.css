@@ -46,7 +46,7 @@ h1{
 }
 
 /* Media Query para vista de teléfono móvil */
-@media (max-width: 768px) {
+@media (max-width: 900px) {
     .grid-container {
         grid-template-columns: repeat(3, 1fr);
         max-width: 450px;
