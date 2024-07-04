@@ -53,7 +53,8 @@ h1{
     }
 
     .grid-item {
-        height: 130px; /* Ajusta la altura para móviles si es necesario */
-        width: 130px; /* Ajusta el ancho para móviles si es necesario */
+        height: 100px; /* Ajusta la altura para móviles si es necesario */
+        width: 100px; /* Ajusta el ancho para móviles si es necesario */
+        font-size: 9px;
     }
 }
