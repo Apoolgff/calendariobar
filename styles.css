@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b7ecff;
+
+}
+
+h1{
+    text-align: center;
+    margin: 20px auto;
+    
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 10px;
+    max-width: 1000px;
+    margin: 10px auto;
+}
+
+.grid-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #828ef7;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    text-align: center; /* Alineación del texto */
+    height: 150px; /* Altura fija de la celda */
+    width: 150px; /* Ancho fijo de la celda */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.grid-item:hover {
+    background-color: #45a049;
+}
