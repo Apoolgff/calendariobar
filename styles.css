@@ -44,3 +44,16 @@ h1{
 .grid-item:hover {
     background-color: #45a049;
 }
+
+/* Media Query para vista de teléfono móvil */
+@media (max-width: 768px) {
+    .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 450px;
+    }
+
+    .grid-item {
+        height: 130px; /* Ajusta la altura para móviles si es necesario */
+        width: 130px; /* Ajusta el ancho para móviles si es necesario */
+    }
+}
