@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Objeto con números y textos correspondientes
     const numeroTexto = {
         1: "BUENOOO BABARRR hoy se arranco el camino, a darlo todo",
-        2: "NO VALE HACER TRAMPA!",
+        2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos, te amo!",
         3: "NO VALE HACER TRAMPA!",
         4: "NO VALE HACER TRAMPA!",
         5: "NO VALE HACER TRAMPA!",
