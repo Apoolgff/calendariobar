@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const numeroTexto = {
         1: "BUENOOO BABARRR hoy se arranco el camino, a darlo todo",
         2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos, te amo!",
-        3: "NO VALE HACER TRAMPA!",
+        3: "NO HAY 2 SIN 3 babarrrr a seguir metiendole con tuti!!",
         4: "NO VALE HACER TRAMPA!",
         5: "NO VALE HACER TRAMPA!",
         6: "NO VALE HACER TRAMPA!",
