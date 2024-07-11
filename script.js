@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         1: "BUENOOO BABARRR hoy se arranco el camino, a darlo todo",
         2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos, te amo!",
         3: "NO HAY 2 SIN 3 babarrrr a seguir metiendole con tuti!!",
-        4: "NO VALE HACER TRAMPA!",
+        4: "OPPAAA ya el 4to dia paparrrrrr, dale que vaaaa bubiii",
         5: "NO VALE HACER TRAMPA!",
         6: "NO VALE HACER TRAMPA!",
         7: "NO VALE HACER TRAMPA!",
