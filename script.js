@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos, te amo!",
         3: "NO HAY 2 SIN 3 babarrrr a seguir metiendole con tuti!!",
         4: "OPPAAA ya el 4to dia paparrrrrr, dale que vaaaa bubiii",
-        5: "NO VALE HACER TRAMPA!",
+        5: "ojooo 5to dia babubi, esto es una cosita de locos, a seguir",
         6: "NO VALE HACER TRAMPA!",
         7: "NO VALE HACER TRAMPA!",
         8: "NO VALE HACER TRAMPA!",
