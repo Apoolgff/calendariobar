@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
         3: "NO HAY 2 SIN 3 babarrrr a seguir metiendole con tuti!!",
         4: "OPPAAA ya el 4to dia paparrrrrr, dale que vaaaa bubiii",
         5: "ojooo 5to dia babubi, esto es una cosita de locos, a seguir",
-        6: "NO VALE HACER TRAMPA!",
+        6: "pero mirala a la babar llegando al 6to dia, ya queda menos bubs vamo vamo vamo",
         7: "NO VALE HACER TRAMPA!",
         8: "NO VALE HACER TRAMPA!",
         9: "NO VALE HACER TRAMPA!",
