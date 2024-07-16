@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
         6: "pero mirala a la babar llegando al 6to dia, ya queda menos bubs vamo vamo vamo",
         7: "VAMOS BABUBI TODAVIAAAA, VAMOS CON LA FUERZA DE UN CICLOOOON!!",
         8: "8vo dia porque es la babar babar que no se come ni unaa, vamo arribaaa!",
-        9: "NO VALE HACER TRAMPA!",
+        9: "pero si es la camelsprubi llegando al noveno dia, muy bien bubi",
         10: "NO VALE HACER TRAMPA!",
         11: "NO VALE HACER TRAMPA!",
         12: "NO VALE HACER TRAMPA!",
