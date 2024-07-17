@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', function() {
         7: "VAMOS BABUBI TODAVIAAAA, VAMOS CON LA FUERZA DE UN CICLOOOON!!",
         8: "8vo dia porque es la babar babar que no se come ni unaa, vamo arribaaa!",
         9: "pero si es la camelsprubi llegando al noveno dia, muy bien bubi",
-        10: "NO VALE HACER TRAMPA!",
+        10: "10 como el puntaje que le doy a la sensualidad de la babar, 1/3 completado!",
         11: "NO VALE HACER TRAMPA!",
         12: "NO VALE HACER TRAMPA!",
         13: "NO VALE HACER TRAMPA!",
