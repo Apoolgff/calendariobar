@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         12: "otro dia mas que pasa y la babar cada dia mas cerca de su objetivo, vamos bubi",
         13: "llegamos al dia trece, cuando veo a la babar pepe se estremece",
         14: "dos semanitas completadas babarrrrr, muy biennnn, ya queda menos para el objetivo",
-        15: "NO VALE HACER TRAMPA!",
+        15: "BUENO BABAR LLEGAMOS A LA MITAD, te mereces unos besiros de premio",
         16: "NO VALE HACER TRAMPA!",
         17: "NO VALE HACER TRAMPA!",
         18: "NO VALE HACER TRAMPA!",
