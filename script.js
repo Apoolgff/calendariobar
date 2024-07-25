@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         14: "dos semanitas completadas babarrrrr, muy biennnn, ya queda menos para el objetivo",
         15: "BUENO BABAR LLEGAMOS A LA MITAD, te mereces unos besiros de premio",
         16: "vamos bubi que se nos acaban las ideas para escribir aca, vamoosss babarrr",
-        17: "NO VALE HACER TRAMPA!",
+        17: "otro dia mas superado buba, quien lo diria, a no aflojar que queda poquito, masajiro!!",
         18: "NO VALE HACER TRAMPA!",
         19: "NO VALE HACER TRAMPA!",
         20: "NO VALE HACER TRAMPA!",
