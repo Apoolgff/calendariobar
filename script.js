@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
         17: "otro dia mas superado buba, quien lo diria, a no aflojar que queda poquito, masajiro!!",
         18: "dia 18 a nadie le sorprende, yo la miro a la babar y pepe se me prende",
         19: "superaste otro dia babuterrungui, quedan ya muy poquitos, no aflojar babar!!",
-        20: "NO VALE HACER TRAMPA!",
+        20: "entramos ya a trancitar los ultimos 10 dias babubi, muy orgulloso de usted",
         21: "NO VALE HACER TRAMPA!",
         22: "NO VALE HACER TRAMPA!",
         23: "NO VALE HACER TRAMPA!",
