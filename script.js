@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         18: "dia 18 a nadie le sorprende, yo la miro a la babar y pepe se me prende",
         19: "superaste otro dia babuterrungui, quedan ya muy poquitos, no aflojar babar!!",
         20: "entramos ya a trancitar los ultimos 10 dias babubi, muy orgulloso de usted",
-        21: "NO VALE HACER TRAMPA!",
+        21: "quien supero su dia numero 21? la babar? ziiiiiii, vamo arriba bubiii",
         22: "NO VALE HACER TRAMPA!",
         23: "NO VALE HACER TRAMPA!",
         24: "NO VALE HACER TRAMPA!",
