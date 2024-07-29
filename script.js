@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function() {
         19: "superaste otro dia babuterrungui, quedan ya muy poquitos, no aflojar babar!!",
         20: "entramos ya a trancitar los ultimos 10 dias babubi, muy orgulloso de usted",
         21: "quien supero su dia numero 21? la babar? ziiiiiii, vamo arriba bubiii",
-        22: "NO VALE HACER TRAMPA!",
+        22: "y todo el pueblo canto LA BABAR LA BABAR! vamos sensualibar que ya estamos ahi",
         23: "NO VALE HACER TRAMPA!",
         24: "NO VALE HACER TRAMPA!",
         25: "NO VALE HACER TRAMPA!",
