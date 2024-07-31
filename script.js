@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
         21: "quien supero su dia numero 21? la babar? ziiiiiii, vamo arriba bubiii",
         22: "y todo el pueblo canto LA BABAR LA BABAR! vamos sensualibar que ya estamos ahi",
         23: "dia 23 babarrr, ya arrancamos con la ultima semanita, vamos con el ultimo esfuerzo",
-        24: "NO VALE HACER TRAMPA!",
+        24: "hoy se arranca la ultima semana babar, a no aflojar y meterle meterle que ya falta nada",
         25: "NO VALE HACER TRAMPA!",
         26: "NO VALE HACER TRAMPA!",
         27: "NO VALE HACER TRAMPA!",
