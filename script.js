@@ -28,8 +28,8 @@ document.addEventListener('DOMContentLoaded', function() {
         23: "dia 23 babarrr, ya arrancamos con la ultima semanita, vamos con el ultimo esfuerzo",
         24: "hoy se arranca la ultima semana babar, a no aflojar y meterle meterle que ya falta nada",
         25: "llegamos al dia VEINTICIN...CO! estamos orgullosos de usted babar vamos con todo",
-        26: "NO VALE HACER TRAMPA!",
-        27: "NO VALE HACER TRAMPA!",
+        26: "la bella y sensual babar llego al dia 26, con 4 dias mas terminamos babar dale dale dale",
+        27: "bueno bubiiii comenzo la cuenta regresiva, 3 dias mas, solo 3 y cumplis el objetivo",
         28: "NO VALE HACER TRAMPA!",
         29: "NO VALE HACER TRAMPA!",
         30: "NO VALE HACER TRAMPA!"
