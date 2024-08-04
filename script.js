@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
         25: "llegamos al dia VEINTICIN...CO! estamos orgullosos de usted babar vamos con todo",
         26: "la bella y sensual babar llego al dia 26, con 4 dias mas terminamos babar dale dale dale",
         27: "bueno bubiiii comenzo la cuenta regresiva, 3 dias mas, solo 3 y cumplis el objetivo",
-        28: "NO VALE HACER TRAMPA!",
+        28: "PAPAAAAAARRRRRR ya estamos en el dia 28 que emocionante, ni se te ocurra aflojar ahora",
         29: "NO VALE HACER TRAMPA!",
         30: "NO VALE HACER TRAMPA!"
         /*2: "llegamos al 2do dia babarr, que no decaiga que ya falta menos",
